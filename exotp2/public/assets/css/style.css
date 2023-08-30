@@ -1,0 +1,58 @@
+body {
+    font-family: "Phudu", cursive;
+}
+
+header {
+    background-image: url(../img/header.jpg);
+    height: 40vh;
+    font-family: "Handjet", cursive;
+}
+header h1 {
+    font-size: 104px;
+}
+header h2 {
+    font-size: 48px;
+    padding: 10px;
+    background-color: cornflowerblue;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+        rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+main {
+    min-height: 60vh;
+}
+
+th {
+    border: 3px solid #2b4570;
+    text-align: center;
+    background-color: #2b4570;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    min-width: 135px;
+}
+
+td {
+    text-align: center;
+    font-weight: bold;
+    font-size: xx-large;
+    height: 60px;
+}
+
+.red {
+    color: white;
+    background-color: #2b4570;
+}
+
+table {
+    border-collapse: separate;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+a {
+    text-decoration: none;
+}
+.birthday {
+    font-size: x-small;
+    display: block;
+}
